@@ -1,4 +1,5 @@
 # Sunnah.now Waitlist
+<img width="2880" height="2270" alt="sunnah now" src="https://github.com/user-attachments/assets/41ca571d-1c1f-4a04-97c7-0156a3980326" />
 
 Sunnah.now is a developer-first digital repository providing high-fidelity Hadith data through a modern API and scholarly-curated datasets. This repository contains the source code for the landing page and waitlist for the upcoming Sunnah.now platform.
 
