@@ -80,7 +80,11 @@ const WaitlistForm = ({
         onSubmit={handleSubmit}
         className={`${variant === "cta" ? "bg-white" : "bg-white"} p-2 rounded-xl ambient-shadow max-w-lg mx-auto flex flex-col sm:flex-row gap-2`}
       >
+        <label htmlFor={`email-input-${variant}`} className="sr-only">
+          Email address
+        </label>
         <input
+          id={`email-input-${variant}`}
           className="flex-grow px-6 py-4 bg-transparent border-none focus:ring-0 text-on-surface outline-none"
           placeholder={
             variant === "cta"

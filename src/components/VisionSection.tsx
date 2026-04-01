@@ -86,7 +86,11 @@ const VisionSection = () => {
               <img
                 className="w-full h-full object-cover object-top"
                 src="/images/drive_1.webp"
-                alt="Calligraphy"
+                alt="Intricate Arabic calligraphy on historical manuscript"
+                width="440"
+                height="550"
+                loading="lazy"
+                decoding="async"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-b from-black/0 to-black/50" />
@@ -117,7 +121,11 @@ const VisionSection = () => {
               <img
                 className="w-full h-full object-cover"
                 src="images/drive_2.webp"
-                alt="Workspace"
+                alt="Modern developer workspace with focus on digital Islamic research"
+                width="438"
+                height="550"
+                loading="lazy"
+                decoding="async"
                 referrerPolicy="no-referrer"
               />
               <div className="absolute inset-0 bg-gradient-to-b from-black/25 to-black/0" />

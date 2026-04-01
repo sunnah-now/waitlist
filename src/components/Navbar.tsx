@@ -26,7 +26,7 @@ const Navbar = () => (
           Early Access
         </a>
       </div>
-      <button className="md:hidden text-primary">
+      <button className="md:hidden text-primary" aria-label="Open menu">
         <Menu size={24} />
       </button>
     </div>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sunnah.now/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://sunnah.now/images/hero.webp</image:loc>
+      <image:title>Sunnah.now - Authentic Hadith Library</image:title>
+      <image:caption>Authentic Islamic library with classic Hadith collection books</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sunnah.now/images/drive_1.webp</image:loc>
+      <image:title>Intricate Arabic calligraphy</image:title>
+      <image:caption>Intricate Arabic calligraphy on historical manuscript</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://sunnah.now/images/drive_2.webp</image:loc>
+      <image:title>Modern developer workspace</image:title>
+      <image:caption>Modern developer workspace with focus on digital Islamic research</image:caption>
+    </image:image>
+  </url>
+</urlset>

@@ -8,7 +8,11 @@ const Hero = () => (
       <img
         className="w-full h-full object-cover"
         src="/images/hero.webp"
-        alt="Library background"
+        alt="Authentic Islamic library with classic Hadith collection books"
+        width="512"
+        height="512"
+        decoding="async"
+        fetchPriority="high"
         referrerPolicy="no-referrer"
       />
     </div>
